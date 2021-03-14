@@ -1,6 +1,6 @@
 # Resources
 
-A list of the resources (links) that I use/am using to expand my knowledge and/or improve my skills
+A list of the resources (links) that I use/am using to expand my knowledge.
 
 # General
 
