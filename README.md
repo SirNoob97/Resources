@@ -6,7 +6,9 @@ A list of the resources (links) that I use/am using to expand my knowledge.
 
 ## Repos
 
+- [Amazon Archives](https://github.com/amazon-archives)
 - [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome DB Tools](https://github.com/mgramin/awesome-db-tools)
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
 - [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
@@ -14,14 +16,34 @@ A list of the resources (links) that I use/am using to expand my knowledge.
 - [Awesome Rest](https://github.com/marmelab/awesome-rest)
 - [Awesome Security](https://github.com/sbilly/awesome-security)
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
+- [AWS](https://github.com/aws)
+- [Compose Spec(new docker compose file format)](https://github.com/compose-spec/compose-spec)
+- [Github](https://github.com/github)
+- [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+- [Google](https://github.com/google)
+- [Lynis](https://github.com/CISOfy/Lynis)
+- [Netflix](https://github.com/Netflix)
+- [Opensource Guide](https://github.com/github/opensource.guide)
+- [SlackAPI](https://github.com/slackapi)
+- [Uber Open Source](https://github.com/uber)
 
 ## Websites and Books
 
-- [Microservice.io](https://microservices.io/)
-- [Bookmarks Dev](https://www.bookmarks.dev/)
+- [Bash Scripting Cheat Sheet](https://devhints.io/bash)
+- [Bookmarks Dev](https://bookmarks.dev/)
+- [CCN](https://ccn.cni.es/index.php/en/)
+- [CIS](https://cisecurity.org/)
 - [David Wheeler](https://dwheeler.com/)
-- [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
-- [SSL Labs](https://www.ssllabs.com/)
+- [GoodFirstIssues](https://goodfirstissues.com/)
+- [Microservice.io](https://microservices.io/)
+- [Mockaroo](https://mockaroo.com/)
+- [Over The Wire](https://overthewire.org/wargames/)
+- [OWASP](https://owasp.org/)
+- [Security Engineering](https://cl.cam.ac.uk/~rja14/book.html)
+- [SSH audit](https://www.sshaudit.com/)
+- [SSL Labs](https://ssllabs.com/)
+- [The Linux Kernel](https://kernel.org/doc/html/latest/index.html)
+- [WASC](http://webappsec.org/)
 - [Web Application Security Quiz(easy)](https://timoh6.github.io/WebAppSecQuiz/)
 
 # Java
@@ -32,15 +54,18 @@ A list of the resources (links) that I use/am using to expand my knowledge.
 - [Awesome Java](https://github.com/akullpp/awesome-java)
 - [Spring Security Samples](https://github.com/timtebeek/spring-security-samples)
 - [Useful-Java-Links](https://github.com/Vedenin/useful-java-links)
-- [Java Concurrency](https://github.com/code-review-checklists/java-concurrency)
+- [Java Concurrency Review Checklists](https://github.com/code-review-checklists/java-concurrency)
 - [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap)
+- [Open JDK](https://github.com/openjdk)
 - [RadarCOVID](https://github.com/RadarCOVID)
 - [Spring](https://github.com/spring-projects)
 
 ## Websites and Books
 
-- [SEI CERT Oracle Coding Standard for Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)
+- [Java(11) Language Specification](https://docs.oracle.com/javase/specs/jls/se11/html/index.html)
 - [Essential Java](https://essential-java.programming-books.io/)
+- [Java Especialist](https://javaspecialists.eu/)
+- [SEI CERT Oracle Coding Standard for Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)
 
 # Go
 
@@ -52,13 +77,16 @@ A list of the resources (links) that I use/am using to expand my knowledge.
 - [Docker](https://github.com/docker)
 - [Fiber](https://github.com/gofiber)
 - [The Go Programming Language](https://github.com/adonovan/gopl.io/)
+- [Go Architecture Examples](https://github.com/friendsofgo/go-architecture-examples)
 - [Go Books](https://github.com/dariubs/GoBooks)
+- [Go-Chi](https://github.com/go-chi)
 - [Go-Microservices](https://github.com/raycad/go-microservices)
 - [Kubernetes](https://github.com/kubernetes)
 - [Uber-go guide](https://github.com/uber-go/guide/blob/master/style.md)
+- [Workshop-Microservices](https://github.com/friendsofgo/workshop-microservices)
 
 ## Websites and Books
 
-- [Go In Action](https://www.manning.com/books/go-in-action)
+- [Go In Action](https://manning.com/books/go-in-action)
 - [Gophers Slack](gophers.slack.com)
 - [GophersGo Blogspot](https://gophersgo.blogspot.com/)
