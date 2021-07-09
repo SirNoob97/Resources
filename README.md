@@ -58,9 +58,7 @@ A list of the resources (links) that I use/am using to expand my knowledge.
 - [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap)
 - [Open JDK](https://github.com/openjdk)
 - [RadarCOVID](https://github.com/RadarCOVID)
-- [Spring](https://github.com/spring-projects)
-
-## Websites and Books
+- [Spring](https://github.com/spring-projects) ## Websites and Books
 
 - [Java(11) Language Specification](https://docs.oracle.com/javase/specs/jls/se11/html/index.html)
 - [Essential Java](https://essential-java.programming-books.io/)
@@ -90,3 +88,12 @@ A list of the resources (links) that I use/am using to expand my knowledge.
 - [Go In Action](https://manning.com/books/go-in-action)
 - [Gophers Slack](gophers.slack.com)
 - [GophersGo Blogspot](https://gophersgo.blogspot.com/)
+
+# PostgreSQL
+
+## Repos
+
+## Websites and Books
+
+- [postgresqltutotiral](https://www.postgresqltutorial.com/)
+- [tutorials point](https://www.tutorialspoint.com/postgresql/)
