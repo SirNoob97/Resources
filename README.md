@@ -33,8 +33,10 @@ A list of the resources (links) that I use/am using to expand my knowledge.
 - [Bookmarks Dev](https://bookmarks.dev/)
 - [CCN](https://ccn.cni.es/index.php/en/)
 - [CIS](https://cisecurity.org/)
+- [Database Answers](http://www.databaseanswers.org/data_models/)
 - [David Wheeler](https://dwheeler.com/)
 - [GoodFirstIssues](https://goodfirstissues.com/)
+- [Linux Performance](https://www.brendangregg.com/linuxperf.html)
 - [Microservice.io](https://microservices.io/)
 - [Mockaroo](https://mockaroo.com/)
 - [Over The Wire](https://overthewire.org/wargames/)
@@ -93,7 +95,14 @@ A list of the resources (links) that I use/am using to expand my knowledge.
 
 ## Repos
 
+- [Awesome PostgreSQL](https://github.com/dhamaniasad/awesome-postgres)
+- [DB Samples](https://github.com/morenoh149/postgresDBSamples)
+
 ## Websites and Books
 
+- [Planet PostgreSQL](https://planet.postgresql.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [PostgreSQL co](https://postgresqlco.nf/)
 - [postgresqltutotiral](https://www.postgresqltutorial.com/)
+- [PostgreSQL Wiki](https://wiki.postgresql.org/wiki/Main_Page)
 - [tutorials point](https://www.tutorialspoint.com/postgresql/)
