@@ -106,3 +106,12 @@ A list of the resources (links) that I use/am using to expand my knowledge.
 - [postgresqltutotiral](https://www.postgresqltutorial.com/)
 - [PostgreSQL Wiki](https://wiki.postgresql.org/wiki/Main_Page)
 - [tutorials point](https://www.tutorialspoint.com/postgresql/)
+
+# Python
+
+## Repos
+
+## Websites and Books
+
+- [Python](https://www.python.org/)
+- [Wiki](https://wiki.python.org/moin/)
