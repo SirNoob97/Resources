@@ -11,7 +11,6 @@ A list of the resources (links) that I use/am using to expand my knowledge.
 - [Awesome DB Tools](https://github.com/mgramin/awesome-db-tools)
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
 - [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
-- [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 - [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
 - [Awesome Rest](https://github.com/marmelab/awesome-rest)
 - [Awesome Security](https://github.com/sbilly/awesome-security)
@@ -81,7 +80,6 @@ A list of the resources (links) that I use/am using to expand my knowledge.
 - [Go Books](https://github.com/dariubs/GoBooks)
 - [Go-Chi](https://github.com/go-chi)
 - [Go-Microservices](https://github.com/raycad/go-microservices)
-- [Kubernetes](https://github.com/kubernetes)
 - [Uber-go guide](https://github.com/uber-go/guide/blob/master/style.md)
 - [Workshop-Microservices](https://github.com/friendsofgo/workshop-microservices)
 
@@ -115,3 +113,15 @@ A list of the resources (links) that I use/am using to expand my knowledge.
 
 - [Python](https://www.python.org/)
 - [Wiki](https://wiki.python.org/moin/)
+
+# Kubernetes
+
+## Repos
+
+- [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+- [Kubernetes](https://github.com/kubernete)
+
+## Websites and Books
+
+- [Kubernetes](https://kubernetes.io/)
+- [K0S](https://k0sproject.io/)
