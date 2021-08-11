@@ -59,12 +59,15 @@ A list of the resources (links) that I use/am using to expand my knowledge.
 - [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap)
 - [Open JDK](https://github.com/openjdk)
 - [RadarCOVID](https://github.com/RadarCOVID)
-- [Spring](https://github.com/spring-projects) ## Websites and Books
+- [Spring](https://github.com/spring-projects)
 
-- [Java(11) Language Specification](https://docs.oracle.com/javase/specs/jls/se11/html/index.html)
+## Websites and Books
+
 - [Essential Java](https://essential-java.programming-books.io/)
+- [Java(11) Language Specification](https://docs.oracle.com/javase/specs/jls/se11/html/index.html)
 - [Java Especialist](https://javaspecialists.eu/)
 - [SEI CERT Oracle Coding Standard for Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)
+- [Spring Boot How-t Guides](https://docs.spring.io/spring-boot/docs/current/reference/html/howto.html)
 
 # Go
 
@@ -119,7 +122,10 @@ A list of the resources (links) that I use/am using to expand my knowledge.
 ## Repos
 
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
-- [Kubernetes](https://github.com/kubernete)
+- [Helm](https://github.com/helm/helm)
+- [Kubernetes](https://github.com/kubernetes/kubernetes)
+- [Kubernetes Community](https://github.com/kubernetes/community)
+- [Minikube](https://github.com/kubernetes/minikube)
 
 ## Websites and Books
 
