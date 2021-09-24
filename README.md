@@ -51,7 +51,7 @@ A list of the resources (links) that I use/am using to expand my knowledge.
 
 ## Repos
 
-- [Awesome JVW](https://github.com/deephacks/awesome-jvm)
+- [Awesome JVM](https://github.com/deephacks/awesome-jvm)
 - [Awesome Java](https://github.com/akullpp/awesome-java)
 - [Spring Security Samples](https://github.com/timtebeek/spring-security-samples)
 - [Useful-Java-Links](https://github.com/Vedenin/useful-java-links)
